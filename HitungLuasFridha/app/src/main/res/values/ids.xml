@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtsisi" type="id" />
+    <item name="txtluas" type="id" />
+    <item name="txtkeliling" type="id" />
+    <item name="editSisi" type="id" />
+    <item name="edithasil" type="id" />
+    <item name="editkeliling" type="id" />
+    <item name="btnOk" type="id" />
+</resources>

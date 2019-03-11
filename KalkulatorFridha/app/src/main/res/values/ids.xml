@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnjumlah" type="id" />
+    <item name="btnkurang" type="id" />
+    <item name="btnkali" type="id" />
+    <item name="btnbagi" type="id" />
+    <item name="txtawal" type="id" />
+    <item name="txtoperator" type="id" />
+    <item name="txthasil" type="id" />
+    <item name="editawal" type="id" />
+    <item name="editkedua" type="id" />
+    <item name="edithasil" type="id" />
+</resources>

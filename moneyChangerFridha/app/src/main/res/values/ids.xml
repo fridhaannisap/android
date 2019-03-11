@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editRupiah" type="id" />
+    <item name="radioDolar" type="id" />
+    <item name="radioEuro" type="id" />
+    <item name="btnOkKonversi" type="id" />
+    <item name="txtHasil" type="id" />
+</resources>
